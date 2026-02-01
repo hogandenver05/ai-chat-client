@@ -85,3 +85,4 @@ Formal automated tests will be implemented.
 * Documentation: [here](https://github.com/hogandenver05/ai-chat-client/blob/master/README.md)
 * Canvas Project Page: [here](https://nku.instructure.com/courses/87378/pages/individual-project-denver-hogan)
 * Canvas Progress Page: [here](https://nku.instructure.com/courses/87378/pages/individual-progress-denver-hogan)
+* Project Plan Presentation: [PPP.pdf](https://github.com/user-attachments/files/24988171/PPP.pdf)
