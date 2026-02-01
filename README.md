@@ -83,4 +83,5 @@ Formal automated tests will be implemented.
 
 * Source Code: [here](https://github.com/hogandenver05/ai-chat-client)
 * Documentation: [here](https://github.com/hogandenver05/ai-chat-client/blob/master/README.md)
-* Canvas Page: [here](https://nku.instructure.com/courses/87378/pages/individual-project-denver-hogan)
+* Canvas Project Page: [here](https://nku.instructure.com/courses/87378/pages/individual-project-denver-hogan)
+* Canvas Progress Page: [here](https://nku.instructure.com/courses/87378/pages/individual-progress-denver-hogan)
